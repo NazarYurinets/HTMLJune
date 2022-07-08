@@ -1,6 +1,6 @@
 .father{
     border: 5px solid black;
-    width: 1000px;
+    width: 800px;
     margin: auto;
     box-sizing: border-box;
     padding: 5px;
@@ -9,7 +9,7 @@
 .box {
     display: flex;
     justify-content: center;
-    height: 300px;
+    height: 250px;
 
 }
 
@@ -31,5 +31,5 @@
 .footer {
     background-color: blue;
     margin-top: 10px;
-    height: 500px;
+    height: 450px;
 }

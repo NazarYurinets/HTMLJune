@@ -1,0 +1,26 @@
+body{
+    background: aliceblue;
+}
+hi{
+    color: #2a2828;
+}
+h2{
+    color: #1d1d46;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+p{
+    color: crimson;
+    font-style: unset;
+}
+ul{
+    background: aqua;
+}
+li{
+    color: blueviolet;
+}
