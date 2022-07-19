@@ -40,14 +40,18 @@ body{
 }
 .main_content{
     height: 500px;
+    position: relative;
+    display: flex;
+    justify-content: center;
 }
 
 .main_block{
+    width: 1000px;
     display: flex;
-    justify-content: center;
-    gap: 40px;
-    position: relative;
-    bottom: -400px;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: -100px;
 }
 
 .block{
